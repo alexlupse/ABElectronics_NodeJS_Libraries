@@ -1,0 +1,23 @@
+{
+  "name": "abelectronics_nodejs_libraries",
+  "version": "1.0.0",
+  "description": "AB Electronics Node JS Libraries =====",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexlupse/ABElectronics_NodeJS_Libraries.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexlupse/ABElectronics_NodeJS_Libraries/issues"
+  },
+  "homepage": "https://github.com/alexlupse/ABElectronics_NodeJS_Libraries#readme"
+}
